@@ -25,7 +25,7 @@ Hi 👋, I'm Rudra Prasad Panda,<br>🎓 I am currently pursuing my B.Tech in Co
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### Namaste
+### 🙏 Namaste
 <img align ="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
 
 ---
