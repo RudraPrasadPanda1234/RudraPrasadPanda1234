@@ -1,6 +1,6 @@
 # Rudra Prasad Panda
 ## 💫 About Me:
-Hi 👋, I'm Rudra Prasad Panda,<br>🎓 I am currently pursuing my B.Tech in Computer Science and Engineering. I am currently in my 3rd year of studies and is keen to explore different ascepts in the field of CS.<br>👨‍💻 I' m very much intrested in coding,logic devlopment. Through out my academic journey I have devloped a strong grip on C,Java,HTML and CSS,MYSQL,Kotlin . I have also a strong learning of Data Structures and alogorithms, Data Base Mangement System.<br>🏫I'm Currently pursuing my B.Tech in GIET University, Gunupur, Odisha, India.<br>😁 I'm looking to contribute in project of Android Devlopment and Game Devlopment.<br>Thank you 🙏for visting my profile.<br>
+Hi 👋, I'm Rudra Prasad Panda,<br>🎓 I am currently pursuing my B.Tech in Computer Science and Engineering. I am currently in my 3rd year of studies and is keen to explore different ascepts in the field of CS.<br>👨‍💻 I' m very much intrested in coding,logic devlopment. Through out my academic journey I have devloped a strong grip on C,Java,HTML and CSS,MYSQL,Kotlin . I have also a strong learning of Data Structures and alogorithms, Data Base Mangement System.<br>🏫I'm Currently pursuing my B.Tech in GIET University, Gunupur, Odisha, India.<br>😁 I'm looking to contribute in project of Android Devlopment and Game Devlopment.<br>
 <img align ="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!--<img align ="center" alt="coding" width="325" height= "325" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/ironcat.jpg">-->
 
@@ -52,6 +52,8 @@ Hi 👋, I'm Rudra Prasad Panda,<br>🎓 I am currently pursuing my B.Tech in Co
 
 ### 🙏 Namaste
 <img align ="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+Thank you 🙏for visting my profile.<br/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=RudraPrasadPanda1234&icon=0&color=0)](https://visitcount.itsvg.in)
